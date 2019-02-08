@@ -10,7 +10,7 @@ Toxic Comment Classification Challenge Identify
     * RNNpool9851.csv
     * RNNpool9852.csv
 
-* 本代码运行环境为Colab，默认挂载到云盘路径。若使用其他环境运行，请修改：os.chdir('/content/gdrive/My Drive/comment')至目标文件夹。
+* 本代码运行环境为Colab，默认挂载到云盘路径。若使用其他环境运行，请修改os.chdir('/content/gdrive/My Drive/comment')至目标文件夹。
 * 首次运行，需下载wiki-news-300d-1M.vec文件，方法：
     * !wget https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki-news-300d-1M.vec.zip
     * !unzip 'wiki-news-300d-1M.vec.zip'
