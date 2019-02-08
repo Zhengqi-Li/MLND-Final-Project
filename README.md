@@ -3,7 +3,7 @@ Toxic Comment Classification Challenge Identify
 * 代码文件为 code.ipynb
 * 报告文件为 机器学习工程师纳米学位毕业项目报告.pdf
 * 输入数据下载链接：https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
-* 输出文件压缩包为 best_scores.zip，内含文件：
+* 输出文件 best_scores 内含文件：
     * CNN9836.csv
     * CNNRNN9844.csv
     * RNN9851.csv
