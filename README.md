@@ -1,7 +1,7 @@
 # MLND-Final-Project
 Toxic Comment Classification Challenge Identify
-* 代码文件为 code.ipynb
-* 报告文件为 [机器学习工程师纳米学位毕业项目报告.pdf](https://github.com/Zhengqi-Li/MLND-Final-Project/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BA%B3%E7%B1%B3%E5%AD%A6%E4%BD%8D%E6%AF%95%E4%B8%9A%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A.pdf)
+* 代码文件 [code.ipynb](https://github.com/Zhengqi-Li/MLND-Final-Project/blob/master/code.ipynb)
+* 报告文件 [机器学习工程师纳米学位毕业项目报告.pdf](https://github.com/Zhengqi-Li/MLND-Final-Project/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BA%B3%E7%B1%B3%E5%AD%A6%E4%BD%8D%E6%AF%95%E4%B8%9A%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A.pdf)
 * 输入数据下载链接：https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 * 输出文件 best_scores 内含文件：
     * CNN9836.csv
